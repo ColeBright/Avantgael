@@ -1,0 +1,35 @@
+img {
+    width : 25%;
+    height: auto; 
+}
+.displayed {
+    display: block;
+    margin-left: 33vw;
+    margin-right: 33vw; 
+}
+.left {
+    text-align: left;
+    min-height: auto;
+}
+
+.navbar {
+    justify-content: space-between;
+    vertical-align: top;
+    margin-top: 0;
+    margin-bottom: 0 !important;
+}
+
+span {
+    padding-right: 1rem;
+}
+
+.center {
+    align-self: center;
+    display: block;
+    margin-left: 33vw;
+    margin-right: 33vw; 
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+  }
+
